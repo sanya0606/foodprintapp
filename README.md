@@ -119,7 +119,7 @@ cp .env.example .env
 npm run dev
 ```
 
-The API runs at `http://localhost:5000`. You should see `MongoDB connected: ...` and
+The API runs at `https://foodprintapp.onrender.com`. You should see `MongoDB connected: ...` and
 `FoodPrint backend listening on port 5000` in the terminal.
 
 If you don't have MongoDB installed locally, the fastest option is a free
